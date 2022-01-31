@@ -1,0 +1,30 @@
+[3] 8:55:45 PM: Log started for 'C:\Tosca_Projects\Tosca_Workspaces\Demo Web Shop\Demo Web Shop.tws'
+[3] 8:55:45 PM: Log level: 4
+[3] 8:55:45 PM: Release: 15.0.0.836
+[3] 8:55:45 PM: No service discovery configured.
+[3] 8:55:45 PM:  + CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 15.0.0.836 (836)
+[3] 8:55:45 PM:  + DistributedExecutionAddIn: DistributedExecutionAddIn 15.0.0.836 (836)
+[3] 8:55:45 PM:  + ElasticExecutionGridAddIn: ElasticExecutionGridAddIn 15.0.0.836 (836)
+[3] 8:55:45 PM:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 15.0.0.836 (836)
+[3] 8:55:45 PM:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 15.0.0.836 (836)
+[3] 8:55:45 PM:  + IntegrationManagementAddIn: IntegrationManagementAddIn 15.0.0.836 (836)
+    - : QTestIntegration 15.0.0.170 (170)
+    + : SAPSolutionManagerIntegration 15.0.0.170 (170)
+[3] 8:55:45 PM: Search started on 1 objects for query '->PROJECT->SUBPARTS:TCFolder[Name=="Execution"]->SUBPARTS:TCFolder=>SUBPARTS:InteractiveSession'
+[3] 8:55:45 PM: Searcher found 0 results in 0 ms
+[3] 8:55:45 PM:  + OptIntAddIn: OptIntAddIn 15.0.0.836 (836)
+[3] 8:55:45 PM:  + QTestIntegrationAddIn: QTestIntegrationAddIn 15.0.0.836 (836)
+[3] 8:55:45 PM:  + RemoteControl: RemoteControlAddIn 15.0.0.836 (836)
+[3] 8:55:45 PM:  + Reporting: ReportingAddIn 15.0.0.836 (836)
+[3] 8:55:45 PM:  + ReportingUI: ReportingUIAddIn 15.0.0.836 (836)
+[3] 8:55:45 PM:  + RequirementsManagementAddIn: RequirementsManagement 15.0.0.836 (836)
+[3] 8:55:45 PM:  + RequirementsManagementUIAddIn: RequirementsManagementUI 15.0.0.836 (836)
+[3] 8:55:45 PM:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 15.0.0.836 (836)
+[3] 8:55:45 PM:  + TestCaseDesign: TestCaseDesign 15.0.0.836 (836)
+[3] 8:55:45 PM:  + ControlFlowDiagram: TestCaseVisualizationAddIn 15.0.0.836 (836)
+[3] 8:55:45 PM:  + XDefinitions: XDefinitions 15.0.0.836 (836)
+[3] 8:55:45 PM:  + XDefinitionsUI: XDefinitionsUI 15.0.0.836 (836)
+[3] 8:55:45 PM: Opened from Workspace File 'C:\Tosca_Projects\Tosca_Workspaces\Demo Web Shop\Demo Web Shop.tws'
+[3] 8:55:51 PM: Layout not saved: No Panels or Tabbed Documents
+[3] 8:55:57 PM: Closing Workspace!
+[3] 8:55:57 PM: Log closed!
